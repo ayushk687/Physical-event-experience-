@@ -31,3 +31,32 @@
 
 </body>
 </html>
+style.css
+body {
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  color: #38bdf8;
+}
+
+section {
+  margin-top: 20px;
+  padding: 10px;
+  background: #1e293b;
+  border-radius: 10px;
+}
+
+package.json
+{
+  "name": "event-experience",
+  "version": "1.0.0",
+  "description": "Campus event experience and deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  }
+}
