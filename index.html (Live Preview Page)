@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Event Experience</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🚀 Campus Event Experience</h1>
+
+<section>
+  <h2>🏆 Achievement</h2>
+  <p>Top 6 – HackByte 4.0 among 120+ teams (36-hour hackathon)</p>
+</section>
+
+<section>
+  <h2>📍 Experience</h2>
+  <p>Worked in high-pressure environment with strong teamwork and execution.</p>
+</section>
+
+<section>
+  <h2>🛠️ Deployment Strategy</h2>
+  <ul>
+    <li>Pre-event promotion via WhatsApp & Instagram</li>
+    <li>Live event booth engagement</li>
+    <li>Post-event feedback collection</li>
+  </ul>
+</section>
+
+</body>
+</html>
